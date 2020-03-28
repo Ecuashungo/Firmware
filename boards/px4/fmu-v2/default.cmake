@@ -37,7 +37,7 @@ px4_add_board(
 		#imu/adis16477
 		#imu/adis16497
 		#imu/invensense/mpu6000 # WIP
-		imu/l3gd20
+		imu/st/l3gd20
 		imu/lsm303d
 		imu/mpu6000
 		#imu/mpu9250
